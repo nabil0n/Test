@@ -6,4 +6,11 @@ Python Course for **AI23** ITHS
 
 - lst1
 - lst2
-- lst3
+- - lst3
+
+---
+
+```python
+print("hej)
+```
+
